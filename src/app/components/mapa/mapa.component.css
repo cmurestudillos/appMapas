@@ -1,0 +1,9 @@
+/* Incluir estilos especificos del componente */
+
+agm-map {
+    height: 400px;
+}
+
+.botones button {
+    margin: 5px;
+}

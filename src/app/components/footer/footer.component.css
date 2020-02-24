@@ -1,0 +1,11 @@
+/* Insertar estilos especificos del componente */
+
+.footer {
+    font-size: 15px;
+    text-align: center;
+    bottom: 0;
+    height: 50px;
+    /* valor que necesites */
+    position: absolute;
+    width: 100%;
+}
