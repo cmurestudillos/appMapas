@@ -2,14 +2,9 @@
 
 Aplicacion web realizada con Angular, Material Angular y utilizando la API de Google Maps.
 
-> **UPDATE 26/02/2020:**: Repositorio actualizado. **(Router (useHash))
-
-Imagen Principal Artículo <p align="center"><img src="captura_1.jpg"></p> 
-
 ## Instalar dependencias
 - Ejecutar en terminal comando: `npm install`.
 - Ejecutar en terminal comando: `ng add @angular/material`.
-- Ejecutar en terminal comando: `npm install @agm/core --save`
 
 ## Iniciar proyecto
 Ejecutar en terminal el comando `ng serve` e introducir en el navegador `http://localhost:4200/` o ejecutar `ng serve -o` y se abrira automaticamente en el navegador.

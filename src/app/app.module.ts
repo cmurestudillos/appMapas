@@ -14,6 +14,8 @@ import { MaterialModule } from './material.module';
 import { MapaComponent } from './components/mapa/mapa.component';
 // Angular Google Maps
 import { AgmCoreModule } from '@agm/core';
+// APIKey - Maps
+import mapsApiKey from '../config/mapskey';
 
 @NgModule({
   entryComponents:[MapaEditarComponent],
@@ -30,8 +32,8 @@ import { AgmCoreModule } from '@agm/core';
     MaterialModule,
     ReactiveFormsModule,
     AgmCoreModule.forRoot({
-      apiKey: 'AIzaSyDNOu2JQ001PxZY-GVwFvVou0_6h_Sj-14'
-    })
+      apiKey: mapsApiKey.mapsKey
+    }),
   ],
   schemas: [],
   providers: [],

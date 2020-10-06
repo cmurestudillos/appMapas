@@ -1,0 +1,6 @@
+node_modules
+coverage
+dist
+mapskey.js
+enviroment.js
+firebasekey.js
