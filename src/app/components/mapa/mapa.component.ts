@@ -1,6 +1,6 @@
 import { Component, OnInit } from '@angular/core';
 // Clase
-import { Marcador } from '../../classes/marcador.class';
+import { Marcador } from '../../models/marcador';
 import { MatSnackBar } from '@angular/material/snack-bar';
 import {MatDialog, MatDialogRef} from '@angular/material/dialog';
 import { MapaEditarComponent } from './mapa-editar.component';

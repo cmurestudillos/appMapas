@@ -4,7 +4,6 @@ Aplicacion web realizada con Angular, Material Angular y utilizando la API de Go
 
 ## Instalar dependencias
 - Ejecutar en terminal comando: `npm install`.
-- Ejecutar en terminal comando: `ng add @angular/material`.
 
 ## Iniciar proyecto
 Ejecutar en terminal el comando `ng serve` e introducir en el navegador `http://localhost:4200/` o ejecutar `ng serve -o` y se abrira automaticamente en el navegador.
