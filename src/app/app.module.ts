@@ -9,7 +9,7 @@ import { FooterComponent } from './components/footer/footer.component';
 import { MapaEditarComponent } from './components/mapa/mapa-editar.component';
 import { BrowserAnimationsModule } from '@angular/platform-browser/animations';
 // Angular Material
-import { MaterialModule } from './material.module';
+import { MaterialModule } from './modules/material.module';
 //Componentes
 import { MapaComponent } from './components/mapa/mapa.component';
 // Angular Google Maps
